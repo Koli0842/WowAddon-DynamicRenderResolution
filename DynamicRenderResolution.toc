@@ -1,0 +1,9 @@
+## Interface: 100100
+## Title: Dynamic Render Resolution
+## IconTexture: Interface\Icons\TEMP
+## Version: 0.1
+## Author: Koli
+## SavedVariables: DynamicRenderResolutionDB
+## Notes: Dynamically adjust your render resolution to maintain target framerate
+
+DynamicRenderResolution.lua
